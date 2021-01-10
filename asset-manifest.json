@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/got-cards/static/css/main.c2c71432.chunk.css",
+    "main.js": "/got-cards/static/js/main.80beac42.chunk.js",
+    "main.js.map": "/got-cards/static/js/main.80beac42.chunk.js.map",
+    "runtime-main.js": "/got-cards/static/js/runtime-main.b204d01e.js",
+    "runtime-main.js.map": "/got-cards/static/js/runtime-main.b204d01e.js.map",
+    "static/js/2.00d56056.chunk.js": "/got-cards/static/js/2.00d56056.chunk.js",
+    "static/js/2.00d56056.chunk.js.map": "/got-cards/static/js/2.00d56056.chunk.js.map",
+    "index.html": "/got-cards/index.html",
+    "precache-manifest.27226f31ee6ea2a849a02888063aa8fc.js": "/got-cards/precache-manifest.27226f31ee6ea2a849a02888063aa8fc.js",
+    "service-worker.js": "/got-cards/service-worker.js",
+    "static/css/main.c2c71432.chunk.css.map": "/got-cards/static/css/main.c2c71432.chunk.css.map",
+    "static/js/2.00d56056.chunk.js.LICENSE.txt": "/got-cards/static/js/2.00d56056.chunk.js.LICENSE.txt",
+    "static/media/gotlogo.png": "/got-cards/static/media/gotlogo.21d13671.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b204d01e.js",
+    "static/js/2.00d56056.chunk.js",
+    "static/css/main.c2c71432.chunk.css",
+    "static/js/main.80beac42.chunk.js"
+  ]
+}
